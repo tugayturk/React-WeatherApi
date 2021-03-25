@@ -1,0 +1,19 @@
+.myInput{
+    width:150px;
+    height: 25px;
+    border-radius: 5px;
+    border:0;
+    background-color: transparent;
+    color:white;
+    border-bottom:2px solid whitesmoke;
+    margin-bottom:50px;
+    padding:5px
+}
+.myInput:focus{
+    box-shadow: none;
+    background-color: transparent;
+    outline: none;
+}
+::placeholder{
+    color:rgb(126, 76, 218)
+}

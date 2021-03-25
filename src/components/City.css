@@ -1,0 +1,14 @@
+.city{
+    border:2px solid black;
+    width: 30vw;
+    height: 60vh;
+    margin-left: 35%;
+    border-radius: 5px;
+    margin-top: 30px;
+    overflow:hidden;
+ 
+    
+}
+.city h1{
+    padding:20px;
+}

@@ -1,0 +1,14 @@
+*{
+  margin:0;
+  
+}
+.App{
+  text-align: center;
+  background: linear-gradient(#e66465, #9198e5);
+  width: 100vw;
+  height: 100vh;
+  background-image: url("./components/forecast.jpg");
+}
+.App-header{
+  margin-bottom: 50px;
+}
